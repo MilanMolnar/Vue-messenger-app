@@ -1,3 +1,5 @@
+![Laravel](https://github.com/MilanMolnar/Vue-messenger-app/workflows/Laravel/badge.svg)
+
 # Laravel and  Vue.js Messenger application
 This project focuses on the basic capabilites of partner based messenger app.
   - Easy to understand and use UI.
