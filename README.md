@@ -1,4 +1,6 @@
-![Laravel](https://github.com/MilanMolnar/Vue-messenger-app/workflows/Laravel/badge.svg)
+| Laravel build status: | PHP build status: |
+|-----------------------|-------------------|
+| ![Laravel](https://github.com/MilanMolnar/Vue-messenger-app/workflows/Laravel/badge.svg) | ![PHP Composer](https://github.com/MilanMolnar/Vue-messenger-app/workflows/PHP%20Composer/badge.svg) |
 
 # Laravel and  Vue.js Messenger application
 This project focuses on the basic capabilites of partner based messenger app.
